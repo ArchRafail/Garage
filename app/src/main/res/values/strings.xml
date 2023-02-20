@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Garage</string>
+    <string name="app_slogan">Pump up your auto!</string>
+    <string name="app_request">Fill out the questionnaire below to place an order.</string>
+    <string name="questionnaire_customer_text">Full Name (Example: John Snow)</string>
+    <string name="questionnaire_phone_text">Phone number (Example: +380970123456)</string>
+    <string name="questionnaire_auto_brand">Car brand (pick up from the list)</string>
+    <string name="questionnaire_auto_model">Car model (pick up from the list)</string>
+    <string name="questionnaire_parts_list">List of spare parts</string>
+    <string name="order_button_text">Place an order</string>
+
+    #Auto Brands
+    <string-array name="brands">
+        <item>Nothing selected</item>
+        <item>Ford</item>
+        <item>Mercedes</item>
+        <item>Opel</item>
+        <item>VW</item>
+    </string-array>
+
+    #FORD Models
+    <string-array name="ford_models">
+        <item>Nothing selected</item>
+        <item>Fiesta</item>
+        <item>Focus</item>
+        <item>Fusion</item>
+        <item>Mustang</item>
+    </string-array>
+
+    #Mercedes Models
+    <string-array name="mercedes_models">
+        <item>Nothing selected</item>
+        <item>A-Class</item>
+        <item>C-Class</item>
+        <item>E-Class</item>
+        <item>GLE-Class</item>
+        <item>M-Class</item>
+    </string-array>
+
+    #OPEL Models
+    <string-array name="opel_models">
+        <item>Nothing selected</item>
+        <item>Ascona</item>
+        <item>Corsa</item>
+        <item>Monterey</item>
+        <item>Omega</item>
+    </string-array>
+
+    #VW Models
+    <string-array name="vw_models">
+        <item>Nothing selected</item>
+        <item>Golf IV</item>
+        <item>Jetta</item>
+        <item>Passat B7</item>
+        <item>Tiguan</item>
+        <item>Touareg</item>
+    </string-array>
+
+    #NOMODELS
+    <string-array name="no_models">
+        <item>Nothing selected</item>
+    </string-array>
+
+    #Spare parts list
+    <string name="spare_parts_image_description">Spare part image</string>
+    <string name="spare_parts_name">Name of spare part</string>
+    <string name="spare_parts_description">Description of spare part</string>
+
+</resources>
